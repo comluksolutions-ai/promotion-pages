@@ -1,2 +1,2 @@
-# promotion-pages
+# Promotion-Pages
 Static promotional pages 
